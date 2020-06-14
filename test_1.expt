@@ -1,0 +1,35 @@
+True or False
+
+1. ../ is used to move back one step from the current directory. -
+
+2. 'cd ~" is an invalid shell command. - 
+
+3. "cd" and "cd ~" will result in the same output. - 
+
+4. "mkdir" is used to find a directory. -
+
+5. "find ****" without any options is used to find file or subdirectory in the current path. -
+
+6. "regex" - jargon for performing operations/ actions over strings. - 
+
+7. "mv" is one of the many awesome commands. It can move a file or directory to a new location or it can also rename a file. -
+Brain Teaser: What are your observations when you try to move a file or directory in Windows OS vs Linux OS?
+
+8. Everything in Linux is a file system, so when you connect a thumb drive to your computer, you are basically mounting some memory device and associating a file system with it. - 
+
+9. A file system is basically a file or a set of files in a prescribed diectory that >>point<< to a specified location in memory. - 
+
+10. Everything in linux is a file system, then your webcam information is a also a file. - 
+Hint: check ls -lah /dev/video0
+It is amazing to realize that natural light, is being converted by your computer into a digital format and it is upto our imagination to play with this file.
+
+11. "PATH=$PATH:~/some-path" this command appends ~/some-path to the list of environment path.
+
+12. In general PATH, refers to a environment path variable. - 
+
+13. $PATH is not any different from PATH. -
+
+14. "sudo" gives you powers and expects you to use it wisely. It is nature talking to you. - 
+
+15. "wget" is a command that can get a specified object and save it locally, it can download ans save the information locally. - 
+

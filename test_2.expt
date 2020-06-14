@@ -1,0 +1,47 @@
+All these T/F questions are in the context of shell operations
+
+1. "!" and "|" are the same.
+
+2. "|" and "||" are the same.
+
+3. "||", "&&" are logical operators.
+
+4. "cat test_1.expt | grep -v 16" results in the same output as "cat test_1.expt".
+
+5. result of "cat test_1.expt | grep -u 15" is the same as "cat test_1.expt | grep -v 16".
+
+6. result of "cat test_1.expt | grep -v 15" is the same as "cat test_1.expt | grep -v 16".
+
+7. "history" is the history of all commands that were executed from the shell prompt.
+
+8. "history| grep -v find" will print all commands that contain the substring "find".
+
+9. "bash" and "sh" are functionally the same.
+
+10 I opened these test files using the command "vi test_1.expt" or "vim test_2.expt".
+Hint: vi and vim are only slightly different.
+Checkout NeoVim
+
+10. "nano" is a text editor, similar to "vim". The answer is false? - 
+
+11. How to exit vim is one of the post popular questions on the whole of internet? ":q" is the answer? 
+
+12. ":q!" is a vim command to force exit, without saving any changes.
+
+13. "ssh", command for accessing a different computer with a user name, ip address, password. -
+
+14. "curl" and "ssh" are similar commands.
+
+15. "awk" is a programming language that is good at parallel processing string streams. - 
+
+16. "journalctl" is used to view system level logs.- 
+By the way what is a "system level log".
+
+17. pressing "q" exits the logs.
+
+18. ^ is how Ctrl is displayed when typed in the terminal.
+
+19. When things are not going your way, and you wanted to stop a terminal session - use Ctrl-C to stop the session. Ctrl-\ to quit the session.
+
+20. Fun exercise - in a new terminal, navigate to the missing_semester_fun_test directory, then execute the following command "chmod +x test_3.py && ./test_3.py". Now how do you exit this program ?
+Hints: Q19.
